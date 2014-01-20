@@ -47,12 +47,12 @@ table {
 }
 /* End of Eric Meyer's CSS Reset */
 
-/* Color Set */
+/* Color Set (for SCSS) */
 
 $color1: "#F6B5A6";
 $color2 : "#9DB4AA";
 
-/* Font sent */
+/* Font sent (for SCSS) */
 
 $font1: 'Artifika', serif;
 $font2: 'Basic', sans-serif;
@@ -62,7 +62,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 	display: block;
 }
 body {
-	font: .5rem/1rem '$font3', sans-serif;
+	font: .5rem/1rem 'Basic', sans-serif;
 }
 .wrapper {
 	width: 100%;
@@ -86,7 +86,7 @@ body {
 
 	 h1 {
 	color: #f6b5a6;
-	font-family: '$font1';
+	font-family: 'Artifika', serif;
 	font-size: 2.5rem;
 	text-align: center;
 	}
