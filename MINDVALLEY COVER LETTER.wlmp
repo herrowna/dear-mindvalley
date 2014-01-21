@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="MINDVALLEY COVER LETTER" themeId="0" version="65540" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="1" filePath="D:\WORK\PHOTOS\DSC_0121.MOV" arWidth="1920" arHeight="1080" duration="10.5599791" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="2" filePath="D:\WORK\PHOTOS\DSC_0122.MOV" arWidth="1920" arHeight="1080" duration="89.045312499999994" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="3" filePath="D:\WORK\PHOTOS\DSC_0123.MOV" arWidth="1920" arHeight="1080" duration="19.0933125" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="4" filePath="D:\WORK\PHOTOS\DSC_0124.MOV" arWidth="1920" arHeight="1080" duration="23.530645799999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="5" filePath="D:\WORK\PHOTOS\DSC_0125.MOV" arWidth="1920" arHeight="1080" duration="14.5279791" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="6" filePath="D:\WORK\PHOTOS\DSC_0126.MOV" arWidth="1920" arHeight="1080" duration="8.1706458000000008" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="7" filePath="D:\WORK\PHOTOS\DSC_0127.MOV" arWidth="1920" arHeight="1080" duration="18.730645800000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="8" filePath="D:\WORK\PHOTOS\DSC_0128.MOV" arWidth="1920" arHeight="1080" duration="1.8133125000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="9" filePath="D:\WORK\PHOTOS\DSC_0129.MOV" arWidth="1920" arHeight="1080" duration="8.8959790999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="10" filePath="D:\WORK\PHOTOS\DSC_0130.MOV" arWidth="1920" arHeight="1080" duration="23.7653125" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="11" filePath="D:\WORK\PHOTOS\DSC_0131.MOV" arWidth="1920" arHeight="1080" duration="22.570645800000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="12" filePath="D:\WORK\PHOTOS\DSC_0132.MOV" arWidth="1920" arHeight="1080" duration="16.9386458" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="13" filePath="D:\WORK\PHOTOS\DSC_0133.JPG" arWidth="3008" arHeight="2000" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="14" filePath="D:\Downloads\The Script - Hall of Fame (feat. will.i.am) [Single] [2012]- Sebastian[Ub3r]\01 Hall of Fame (feat. will.i.am).m4a" arWidth="0" arHeight="0" duration="201" songTitle="Hall of Fame (feat. will.i.am)" songArtist="The Script" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="15" filePath="D:\WORK\PHOTOS\DSC_0139.JPG" arWidth="3008" arHeight="2000" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+  </MediaItems>
+  <Extents>
+    <AudioClip extentID="54" gapBefore="0" mediaItemID="14" inTime="43.5" outTime="201" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="10" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="10" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <VideoClip extentID="20" gapBefore="0" mediaItemID="2" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <TitleClip extentID="55" gapBefore="0" duration="5">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="1" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <TitleClip extentID="56" gapBefore="113.48898072279053" duration="5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeTemplate" TextScriptId="1">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="true" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Quicksand Dash" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="leftToRight" Value="true" />
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="outlineColor">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="outlineSizeIndex" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-0.25618600845336914" />
+              <BoundPropertyFloatElement Value="0.86046504974365234" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.43333333730697632" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="filmed " />
+              <BoundPropertyStringElement Value="by" />
+              <BoundPropertyStringElement Value="ASHLEY " />
+              <BoundPropertyStringElement Value="CHOW" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <VideoClip extentID="6" gapBefore="0" mediaItemID="2" inTime="0.20000000000000001" outTime="85" speed="1" stabilizationMode="0">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectPanBottomToTopAlongRightTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="4" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <ImageClip extentID="64" gapBefore="0" mediaItemID="15" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="13" duration="5">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectPanBottomToTopAlongRightTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="4" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="PixelateTransitionTemplate" duration="0.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <VideoClip extentID="48" gapBefore="0" mediaItemID="7" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <AudioClip extentID="49" gapBefore="84.799999999999997" mediaItemID="14" inTime="0" outTime="20.333333333333343" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="0" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.54901963472366333" />
+      </BoundProperties>
+    </AudioClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="6" />
+        <ExtentRef id="48" />
+        <ExtentRef id="47" />
+        <ExtentRef id="64" />
+        <ExtentRef id="55" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="49" />
+        <ExtentRef id="54" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="56" />
+      </ExtentRefs>
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="1" />
+    <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0" />
+    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="0">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+  <AudioDuckingProperties emphasisPlaceholderID="Narration" />
+</Project>

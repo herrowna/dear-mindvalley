@@ -1,0 +1,226 @@
+/* Eric Meyer's CSS Reset */
+/* now edited by helena n ^_^ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* End of Eric Meyer's CSS Reset */
+/* Color Set */
+/* Font sent */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block; }
+
+body {
+  font: 0.5rem/1rem "Basic", sans-serif, sans-serif; }
+
+.wrapper {
+  width: 100%;
+  min-width: 300px; }
+
+/* TOP SECTION
+-----------------------------------------------------------------------------*/
+#top {
+  margin: 0 0 0 0;
+  background-color: #222;
+  line-height: 3rem; }
+
+.header {
+  height: 12rem;
+  padding: 6rem 5rem 2rem 5rem;
+  text-align: center; }
+
+h1 {
+  color: #f6b5a6;
+  font-family: "Artifika", serif;
+  font-size: 2.5rem;
+  text-align: center; }
+
+.mv-logo {
+  margin-top: 3rem;
+  width: 5rem;
+  opacity: 1.0; }
+
+/* NAV SECTION
+-----------------------------------------------------------------------------*/
+#nav {
+  margin: 0 0 0 0; }
+
+.menu {
+  height: 3rem;
+  text-align: center;
+  padding: 2rem 5rem .5rem 5rem;
+  color: #fff;
+  background-color: #333; }
+
+/* Effect 18: cross derived from Creative Link Effects (http://tympanus.net)*/
+.nav {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  word-spacing: 2rem; }
+
+.nav a {
+  padding: 0 5px;
+  color: #9db4aa;
+  font-family: "Raleway Dots", serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  text-decoration: none;
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  transition: color 0.3s; }
+
+.nav a::before,
+.nav a::after {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: 2px;
+  margin-top: -1px;
+  background: #f6b5a6;
+  content: '';
+  z-index: -1;
+  -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+  -moz-transition: -moz-transform 0.3s, opacity 0.3s;
+  transition: transform 0.3s, opacity 0.3s;
+  pointer-events: none; }
+
+.nav a::before {
+  -webkit-transform: translateY(-20px);
+  -moz-transform: translateY(-20px);
+  transform: translateY(-20px); }
+
+.nav a::after {
+  -webkit-transform: translateY(20px);
+  -moz-transform: translateY(20px);
+  transform: translateY(20px); }
+
+.nav a:hover,
+.nav a:focus {
+  color: #edefef; }
+
+.nav a:hover::before,
+.nav a:hover::after,
+.nav a:focus::before,
+.nav a:focus::after {
+  opacity: 0.7; }
+
+.nav a:hover::before,
+.nav a:focus::before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg); }
+
+.nav a:hover::after,
+.nav a:focus::after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  transform: rotate(-45deg); }
+
+/* CONTENT SECTION
+-----------------------------------------------------------------------------*/
+#medium {
+  margin: 0 0 0 0;
+  background-color: #edefef;
+  background: url("img/background.jpg"); }
+
+.content {
+  width: 50rem;
+  height: auto;
+  margin: 0rem 20rem 0 20rem;
+  padding: 2rem 5rem 2rem 5rem;
+  background-color: #fff; }
+  .content h1 {
+    font-family: "Artifika", serif;
+    color: #9db4aa;
+    font-size: 1.2rem;
+    text-align: justify;
+    border-bottom: 1px dotted #999;
+    padding: .5rem 0 .5rem 0; }
+  .content .profile-pic {
+    margin: .5rem 0 0 1rem;
+    float: right;
+    width: 15rem;
+    border-radius: 10rem;
+    display: inline-block; }
+  .content .about-me {
+    padding: .5rem 0 0 0;
+    font-family: "Basic", sans-serif;
+    font-size: .8rem;
+    color: #333333;
+    line-height: 1.2rem;
+    text-align: justify; }
+    .content .about-me a {
+      color: #c14458;
+      text-decoration: none;
+      border-bottom: 1px dotted #999; }
+    .content .about-me a:hover {
+      color: #666; }
+    .content .about-me em {
+      color: #c14458; }
+
+/* FOOTER SECTION
+-----------------------------------------------------------------------------*/
+#footer {
+  margin: 0 0 0 0; }
+
+.footer {
+  padding: 1rem 20rem 1rem 20rem;
+  text-align: center;
+  height: 7rem;
+  background: #333;
+  font-family: "Artifika", serif;
+  color: #9db4aa;
+  font-size: .8rem; }
+  .footer a {
+    font-size: 1.5rem;
+    color: #9db4aa;
+    text-decoration: none; }
+  .footer p {
+    padding-top: 2rem; }
+  .footer i {
+    color: #f6b5a6; }
+  .footer .footer-pic {
+    width: 7rem;
+    float: right;
+    display: inline; }
