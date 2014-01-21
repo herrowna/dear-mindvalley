@@ -54,11 +54,19 @@ $color2: #9DB4AA;
 $color3: #C14458;
 $basic-color: #333;
 
-/* Font sent */
+/* Font Set */
 
 $font1: 'Artifika', serif;
 $font2: 'Basic', sans-serif;
 $font3: 'Raleway Dots', serif;
+
+/* Mixins */
+
+@mixin content-header{
+		text-align: justify;
+		border-bottom: 1px dotted #999;
+		padding: .5rem 0 .5rem 0;
+	}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
 	display: block;
@@ -96,7 +104,7 @@ body {
 	.mv-logo {
 	margin-top: 3rem;
 	width: 5rem;
-	opacity: 1.0;
+	opacity: .5;
 	}
 
 /* NAV SECTION
@@ -197,7 +205,7 @@ body {
 #medium {
 	margin: 0 0 0 0;
 	background-color: #edefef;
-	background: url('img/background.jpg');
+	background-image: url('img/background.jpg');
 }
 
 .content {
@@ -211,10 +219,7 @@ body {
 		font-family: $font1;
 		color: $color2;
 		font-size: 1.2rem;
-		text-align: justify;
-		border-bottom: 1px dotted #999;
-		padding: .5rem 0 .5rem 0;
-
+		@include content-header;
 	}
 
 	.profile-pic {

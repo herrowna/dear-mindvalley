@@ -45,7 +45,8 @@ table {
 
 /* End of Eric Meyer's CSS Reset */
 /* Color Set */
-/* Font sent */
+/* Font Set */
+/* Mixins */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block; }
 
@@ -77,7 +78,7 @@ h1 {
 .mv-logo {
   margin-top: 3rem;
   width: 5rem;
-  opacity: 0.5; }
+  opacity: .5; }
 
 /* NAV SECTION
 -----------------------------------------------------------------------------*/
@@ -162,7 +163,7 @@ h1 {
 #medium {
   margin: 0 0 0 0;
   background-color: #edefef;
-  background: url("http://i.imgur.com/0eQDSJB.jpg"); }
+  background-image: url("img/background.jpg"); }
 
 .content {
   width: 50rem;
